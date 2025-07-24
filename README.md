@@ -4,7 +4,7 @@
 Un portfolio moderno e responsive sviluppato con tecnologie front-end per mostrare la mia identità professionale e i miei progetti migliori.
 utlizzo del routing e controller delle pagine 
 
-## Obietivi 
+## Obiettivi 
 Implementazione di layout responsive con Bootstrap 5
 
 Sperimentare con Laravel come framework backend
