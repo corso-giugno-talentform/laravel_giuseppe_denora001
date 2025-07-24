@@ -1,18 +1,18 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\PageController;
 
-Route::get('/', function () {
-    return view('home');
-    
 
-});
+Route::get('/', [PageController::class, 'homepage'])->name('homepage');
 
-Route::get('/progetti', function (){
-    return view('progetti');
-});
-Route::get('/contatti', function (){
-    return view('contatti');
-});
 
+Route::get('/progetti', [PageController::class, 'projects'])->name('projects');
+
+Route::get('/progetti/{slug}', [PageController::class, 'project'])->name('project');
+
+
+
+Route::get('/contatti', [PageController::class,'contact'])
+->name('contacts');
 

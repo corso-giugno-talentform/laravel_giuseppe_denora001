@@ -1,61 +1,75 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
 
-## About Laravel
+## Panoramica
+Un portfolio moderno e responsive sviluppato con tecnologie front-end per mostrare la mia identità professionale e i miei progetti migliori.
+utlizzo del routing e controller delle pagine 
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+## Obietivi 
+Implementazione di layout responsive con Bootstrap 5
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+Sperimentare con Laravel come framework backend
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+Creazione di animazioni CSS moderne e performanti
 
-## Learning Laravel
+Gestione di componenti UI complessi (card, progress bar)
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+Organizzazione efficace di un portfolio professionale
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+Utilizzo di Laravel per il routing delle pagine, ed Implementazione del Controller relativo
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
 
-## Laravel Sponsors
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
+## Caratteristiche principali
 
-### Premium Partners
+Completamente responsive: Adattabile a dispositivi mobili, tablet e desktop
 
-- **[Vehikl](https://vehikl.com)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Redberry](https://redberry.international/laravel-development)**
-- **[Active Logic](https://activelogic.com)**
+Sezioni organizzate:
 
-## Contributing
+Hero con call-to-action
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+Chi sono con immagine profilo
 
-## Code of Conduct
+Competenze con barre di progresso
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+Approccio lavorativo
 
-## Security Vulnerabilities
+Galleria progetti
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+Pagina contatti dedicata
 
-## License
+Animazioni sottili: Effetti hover, transizioni e scroll
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+UI intuitiva: Navigazione semplice e diretta
+
+## Tecnologie utilizzate
+Frontend:
+
+HTML5
+
+CSS3 (con variabili personalizzate) per ora in style 
+
+JavaScript
+
+Framework/Librerie:
+
+Bootstrap 5
+
+Font Awesome
+
+Strumenti:
+
+Git & GitHub
+
+Google Maps API
+
+Back end:
+routing delle pagine con relativo controller
+
+ ## Pagine incluse
+home - Pagina principale del portfolio
+
+progetti - pagina dei miei progetti 
+
+contatti - Pagina dedicata ai contatti (come da richiesta)
+
+

@@ -240,14 +240,15 @@
             </button>
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav ms-auto">
+                   <li class="nav-item">
+                        <a class="nav-link active" href="{{ route('homepage') }}">Home</a>
+                    </li>
+                   
                     <li class="nav-item">
-                        <a class="nav-link" href="/">Home</a>
+                        <a class="nav-link" href="{{ route('projects') }}">Progetti</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/progetti">Progetti</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link active" href="/contatti">Contatti</a>
+                        <a class="nav-link" href="{{ route('contacts') }}">Contatti</a>
                     </li>
                 </ul>
             </div>
@@ -480,7 +481,7 @@
             </div>
             
             <div class="copyright">
-                <p>&copy; 2023 GiuseppeDev. Tutti i diritti riservati.</p>
+                <p>&copy; 2025 GiuseppeDev. Tutti i diritti riservati.</p>
             </div>
         </div>
     </footer>
